@@ -3,11 +3,11 @@
     "description": "wx sdk",
     "require": {
         "php": "^7.1",
-        "laravel/framework": "^6.0"
+        "laravel/framework": "^6.x"
     },
     "require-dev": {
         "php": "^7.1",
-        "laravel/framework": "6.x-dev"
+        "laravel/framework": "^6.x"
     },
     "license": "MIT",
     "authors": [
