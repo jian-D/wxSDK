@@ -1,6 +1,9 @@
 {
     "name": "fxc/wx-sdk",
     "description": "wx sdk",
+    "config":{
+        "secure-http": false
+    },
     "require": {
         "php": "^7.1"
     },
