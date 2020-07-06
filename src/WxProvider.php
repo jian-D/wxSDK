@@ -1,9 +1,10 @@
 <?php
+
 namespace Fxc\WxSdk;
 
 use Illuminate\Support\ServiceProvider;
 
-class wxProvider extends ServiceProvider
+class WxProvider extends ServiceProvider
 {
     public function boot()
     {
